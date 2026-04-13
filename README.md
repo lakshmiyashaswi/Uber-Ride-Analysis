@@ -46,7 +46,7 @@ This project analyzes Uber ride data to understand ride patterns, pricing trends
 
 ## 📊 Dashboard
 
-![Dashboard](images/uber_dashboard.png)
+![Dashboard](uber_dashboard.png)
 
 ---
 
